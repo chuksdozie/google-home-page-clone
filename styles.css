@@ -74,11 +74,11 @@ body {
 }
 
 #logo {
-  height: 90px;
+  width: 23%;
 }
 
 #search-bar-cont {
-  width: 70%;
+  width: 50%;
   background-color: white;
   height: 50px;
   border-radius: 2.5rem;
@@ -230,7 +230,7 @@ ul {
   }
 
   #logo {
-    width: 35%;
+    width: 22%;
   }
 
   #search-bar-cont {
@@ -240,7 +240,7 @@ ul {
   }
 
   #search-bar {
-    width: 86%;
+    width: 83%;
     height: 100%;
     border: none;
     padding-left: 1rem;
@@ -315,7 +315,7 @@ ul {
   }
 
   #logo {
-    width: 35%;
+    width: 20%;
   }
 
   #search-bar-cont {
