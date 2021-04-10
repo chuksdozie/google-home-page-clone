@@ -22,6 +22,9 @@ body {
   height: 4em;
   padding-right: 1em;
 }
+span{
+    ali
+}
 
 #nav-text-links {
   margin-right: 2rem;
@@ -319,7 +322,7 @@ ul {
   }
 
   #search-bar-cont {
-    width: 90 %;
+    width: 90%;
     padding: 0.1rem;
     margin-bottom: 3%;
   }
