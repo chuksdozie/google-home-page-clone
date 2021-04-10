@@ -94,7 +94,7 @@ body {
 }
 
 #search-bar {
-  width: 91%;
+  width: 85%;
   height: 100%;
   border: none;
   padding-left: 1rem;
@@ -234,13 +234,13 @@ ul {
   }
 
   #search-bar-cont {
-    width: 70%;
+    width: 50%;
     padding: 0.1rem;
     margin-bottom: 3%;
   }
 
   #search-bar {
-    width: 83%;
+    width: 81%;
     height: 100%;
     border: none;
     padding-left: 1rem;
