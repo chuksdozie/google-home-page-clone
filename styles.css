@@ -319,13 +319,13 @@ ul {
   }
 
   #search-bar-cont {
-    width: 70%;
+    width: 90 %;
     padding: 0.1rem;
     margin-bottom: 3%;
   }
 
   #search-bar {
-    width: 81%;
+    width: 86%;
     height: 100%;
     border: none;
     padding-left: 1rem;
